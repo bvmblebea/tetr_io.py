@@ -1,5 +1,5 @@
 # tetr_io.py
-Web-API for [tetr.io](https://tetr.io) website channel rest api 
+Web-API for [tetr.io](https://tetr.io) website TETRA-CHANNEL-REST-API
 
 ## Example
 ```python3
